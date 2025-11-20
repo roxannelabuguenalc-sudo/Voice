@@ -1,0 +1,7 @@
+{
+  "name": "VioletVoice Recorder",
+  "description": "A modern, purple-themed voice recorder application featuring real-time audio visualization, playback, and download capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
